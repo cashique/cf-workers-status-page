@@ -37,3 +37,9 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+
+  - id: forum-lowyat-net
+    name: Lowyat Forums
+    url: 'https://forum.lowyat.net/'
+    method: GET
+    expectStatus: 200
