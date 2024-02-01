@@ -34,7 +34,7 @@ monitors:
 
   - id: lowyat-net
     name: Lowyat NET
-    url: 'https://lowyat.net/'
+    url: 'https://www.lowyat.net/'
     method: GET
     expectStatus: 200
 
