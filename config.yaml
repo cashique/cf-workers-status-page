@@ -43,3 +43,15 @@ monitors:
     url: 'https://forum.lowyat.net/'
     method: GET
     expectStatus: 200
+
+  - id: hype-my
+    name: Hype MY
+    url: 'https://hype.my/'
+    method: GET
+    expectStatus: 200
+
+  - id: murai-my
+    name: Murai MY
+    url: 'https://murai.my/'
+    method: GET
+    expectStatus: 200
