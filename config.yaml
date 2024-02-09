@@ -55,3 +55,27 @@ monitors:
     url: 'https://murai.my/'
     method: GET
     expectStatus: 200
+
+    - id: lipstiq-com
+    name: Lipstiq
+    url: 'https://lipstiq.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: varnam-my
+    name: Varnam MY
+    url: 'https://varnam.my/'
+    method: GET
+    expectStatus: 200
+
+  - id: diva-my
+    name: Diva MY
+    url: 'https://diva.my/'
+    method: GET
+    expectStatus: 200
+
+  - id: fourthofficial-com
+    name: Fourthofficial
+    url: 'https://fourthofficial.com/'
+    method: GET
+    expectStatus: 200
