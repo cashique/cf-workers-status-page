@@ -56,7 +56,7 @@ monitors:
     method: GET
     expectStatus: 200
 
-    - id: lipstiq-com
+  - id: lipstiq-com
     name: Lipstiq
     url: 'https://lipstiq.com/'
     method: GET
