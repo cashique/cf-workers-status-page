@@ -69,8 +69,8 @@ monitors:
     expectStatus: 200
 
   - id: diva-my
-    name: Diva MY
-    url: 'https://diva.my/'
+    name: Miss Murai 
+    url: 'https://missmurai.my/'
     method: GET
     expectStatus: 200
 
