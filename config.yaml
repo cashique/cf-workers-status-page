@@ -85,3 +85,10 @@ monitors:
     url: 'https://hangat.com/'
     method: GET
     expectStatus: 200
+
+  - id: kini.net
+    name: Kini.net
+    url: 'https://kini.net/'
+    method: GET
+    expectStatus: 200
+
