@@ -68,14 +68,20 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: diva-my
-    name: Miss Murai 
-    url: 'https://missmurai.my/'
+  - id: wanista-com
+    name: Wanista 
+    url: 'https://wanista.com/'
     method: GET
     expectStatus: 200
 
   - id: fourthofficial-com
     name: Fourthofficial
     url: 'https://fourthofficial.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: hangat-com
+    name: Hangat
+    url: 'https://hangat.com/'
     method: GET
     expectStatus: 200
